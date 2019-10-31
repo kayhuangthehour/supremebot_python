@@ -1,4 +1,4 @@
-# supremebot_python
-DIY supreme bot in python 3 
+# Supreme Bot Python
+In Selenium， you will need a Chrome Driver to use this script
 
-cop不到北脸的collab怒写bot
+抢不到北脸的collab怒写bot，下周happy copping。
